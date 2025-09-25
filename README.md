@@ -1,43 +1,34 @@
-# VASCO-D-LUFFY2
-# 🚀 VASCO D LUFFY
+# FUN-EXPO-APP
+# 🎉 FUN EXPO APP
 
-**The Ultimate Collection of Pointlessly Amazing Features — Built for Fun, Practice, and a Little Bit of Chaos.**
+**A Creative Collection of Interactive and Entertaining Features — Built for Fun, Learning, and Exploration.**
 
-![VASCO D LUFFY Banner](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
+![FUN EXPO APP Banner](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
 ---
 
 ## 🌟 Features
 
-This HTML/CSS/JS powered project includes a vibrant collection of fun and quirky mini-tools:
+This HTML/CSS/JS powered project includes a vibrant collection of interactive and useful mini-tools:
 
 | Feature | Description |
 |--------|-------------|
-| 📸 **Selfie Camera Mirror** | Activate your webcam and view your mirrored face in real-time. |
-| 💡 **Random Life Advice** | Get timeless wisdom and motivational quotes at the click of a button. |
-| 😄 **Text to Emoji Converter** | Transform your boring text into fun emoji versions. |
-| 🏁 **Loading Bar Race** | A pointless but visually satisfying race between two bars. |
-| 🎮 **Endless Jumper Game** | A casual side-scrolling game featuring a bouncing bird. |
-| 🖱️ **Click Counter** | Count every click on the page. Yes, every. single. one. |
-| 🔄 **Restart Everything** | Refresh all features and start fresh! |
+| 🔍 **Job Matching System** | Connect engineers with startups and companies needing flexible hiring. |
+| 🧾 **Advanced Filtering** | Both companies and engineers can filter results based on qualifications, skills, and preferences. |
+| ✅ **Profile Verification** | Ensures authenticity with identity, credentials, skills, and references. |
+| 📊 **Smart Matching Algorithm** | Matches engineers and startups based on skills, availability, and project compatibility. |
+| 📄 **Job Requests & Profiles** | Companies can post job openings while engineers showcase verified profiles. |
+| 📬 **Contact & Notifications** | Built-in form with instant feedback on submissions. |
 
 ---
 
 ## 🔧 Tech Stack
 
-- HTML5
-- CSS3 (with animations and custom design)
-- JavaScript (Vanilla JS only, no frameworks!)
-- FontAwesome for icons
-- Google Fonts (Orbitron + Rajdhani)
-
----
-
-## 📸 Preview
-
-Here’s a quick look at how it feels to use **VASCO D LUFFY**:
-
-![Preview](https://media.giphy.com/media/3o7TKtd6v7X7W6i4xy/giphy.gif)
+- HTML5  
+- CSS3 (responsive design + animations)  
+- JavaScript (Vanilla JS for interactivity)  
+- FontAwesome for icons  
+- Google Fonts for styling  
 
 ---
 
@@ -45,10 +36,10 @@ Here’s a quick look at how it feels to use **VASCO D LUFFY**:
 
 This project is built for:
 
-- Practicing front-end skills
-- Exploring animations and event handling in JavaScript
-- Making useless tools for fun and creative expression
-- Inspiring others to build something just for fun 🎨
+- Helping startups and companies connect with the right engineers  
+- Enabling engineers to showcase their qualifications and find opportunities  
+- Practicing front-end development skills with real-world features  
+- Exploring user interaction and filtering in JavaScript  
 
 ---
 
@@ -57,16 +48,40 @@ This project is built for:
 You can try it out instantly by downloading and running the HTML file in any modern browser.
 
 ```bash
-git clone https://github.com/your-username/vasco-d-luffy.git
-cd vasco-d-luffy
+git clone https://github.com/your-username/fun-expo-app.git
+cd fun-expo-app
 open index.html
+🚀 Deployment
+You can host this project online with any static hosting service. Popular options:
 
-screen shots
+GitHub Pages
+Push your project to a GitHub repository.
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-08 153745" src="https://github.com/user-attachments/assets/faa852a4-85a2-4fec-8e18-13806e5b855d" />
-<img width="1920" height="1080" alt="Screenshot 2025-08-08 153911" src="https://github.com/user-attachments/assets/ae1ac5f6-a254-4519-ac27-b9a8471dca17" />
-<img width="1920" height="1080" alt="Screenshot 2025-08-08 153932" src="https://github.com/user-attachments/assets/b5b881e8-f5a9-40d9-8718-c91da5304682" />
-![Uploading Screenshot 2025-08-08 154020.png…]()
+Go to Settings > Pages.
 
-![Uploading Screenshot 2025-08-08 154037.png…]()
+Set the branch to main (or master) and root folder as /.
 
+Your app will be live at:
+
+arduino
+Copy code
+https://your-username.github.io/fun-expo-app/
+Netlify
+Go to Netlify.
+
+Drag and drop your project folder into the dashboard.
+
+Netlify will deploy it instantly with a live link.
+
+Vercel
+Go to Vercel.
+
+Import your GitHub repo.
+
+Click Deploy, and you’ll get a live link within seconds.
+
+👤 Founder: Akhilesh K S
+Engineering Student (CSE – Artificial Intelligence)
+
+pgsql
+Copy code
